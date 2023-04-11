@@ -113,3 +113,25 @@ Like EOAs, contract accounts can send and receive Celo and interact with other c
 Accounts can be identified via addresses. EOAs and contract accounts both have addresses that can be used to receive transactions.
 
 To better understand externally-owned accounts, we can compare them to email accounts. Email accounts have an address that can be shared and is used to send them a message, but only the owner can send messages by authenticating via a password. Similar to the EAOs private key.
+
+
+<h3>Note 7</h3>
+
+# Wallets
+#### Explanation
+<img src='https://i.imgur.com/PU9Fg0X.jpg'/>
+A cryptocurrency wallet is a device that stores public/private key pairs to manage cryptocurrency accounts. A user can sign transactions and transfer cryptocurrency or execute smart contracts with a wallet.
+
+The wallet is the primary user interface for Celo. It shows the Celo balance and transaction history, allows one to sign messages and transactions, and log in to Celo applications (dapps).
+
+A wallet can handle multiple Celo accounts. It can also create new accounts and import old ones via their private keys.
+
+There are two main types of wallet devices: software wallets and hardware wallets.
+
+  - Software wallets - Sometimes, also called hot wallets, are usually connected to the internet. They come in the form of mobile, desktop, or web applications. Because they are connected to the internet, they are not as secure as hardware wallets.
+  - Hardware wallets - Sometimes, also called cold wallets or cold storage, aren't connected to the internet. It is a physical device that holds your private keys and keeps them offline; this makes them more secure from attackers.
+#### Seed phrase
+Wallets have a seed phrase, also called the secret recovery phrase or mnemonic. It is a human-readable version of the private key that consists of a list of 12 or more dictionary words.
+With the seed phrase, the user can recover a wallet and all accounts created with it, even if the software or hardware device that stored the wallet is not accessible anymore.
+
+The terminology of a wallet is misleading; a wallet does not store tokens but pairs of private and public keys. It is more accurate to think of a cryptocurrency wallet as a keychain.
