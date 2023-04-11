@@ -84,3 +84,32 @@ The smart contract code of a dapp is publically accessible in the blockchain and
 
 ##### Challenges
 But dapps also face some challenges. Since the backend code is immutable, the maintenance of a dapp can be difficult because the code cannot be easily updated. Interactions with dapps that lead to changes in the data can also be expensive and slow.
+
+
+
+<h3>Note 6</h3>
+
+# Accounts
+#### Explanation
+
+<img src='https://i.imgur.com/0sJoaZN.jpg'/>
+Celo accounts have a Celo balance and can send and receive Celo transactions.
+
+There are two types of accounts: Externally-owned accounts and contract accounts.
+
+##### Externally-owned accounts
+Externally-owned accounts (EOAs) are human-controlled user accounts.
+
+They consist of a cryptographic pair of keys: A public key (that can be shared with others) and a private key (that should only be known to the owner).
+
+The owner of a private key uses it to create a digital signature that is attached to a transaction, to authenticate that it was sent by them.
+
+##### Contract accounts
+A contract account consists of smart contract code that is deployed to the blockchain. It does not have a private key and is only controlled by the logic of the smart contract code.
+
+Like EOAs, contract accounts can send and receive Celo and interact with other contracts. Only EOAs can initiate a transaction, but contract accounts can react to a transaction and call other contracts.
+
+##### Addresses
+Accounts can be identified via addresses. EOAs and contract accounts both have addresses that can be used to receive transactions.
+
+To better understand externally-owned accounts, we can compare them to email accounts. Email accounts have an address that can be shared and is used to send them a message, but only the owner can send messages by authenticating via a password. Similar to the EAOs private key.
