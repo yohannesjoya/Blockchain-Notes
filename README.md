@@ -58,3 +58,29 @@ Smart contracts specify the terms of agreements in computer code that executes i
 As a simple example, one could create a child trust fund that automatically withdraws funds to a child at a specific date, without the need for the involvement of anybody after the publication of the contract.
 
 The difference between smart contracts to traditional computer programs is that the execution of the code of smart contracts is guaranteed. Smart contracts can not be modified in unintended ways, stopped, or deleted after they are published.
+
+
+
+<h3>Note 5</h3>
+
+# Dapps
+#### Explanation
+<img src='https://i.imgur.com/k9ztbB2.jpg' />
+A decentralized application (dapp) is an application that runs on a decentralized network and not a centralized server.
+
+Dapps consist of:
+
+- Data - That is stored on a blockchain.
+- Backend code - That is written as smart contracts, running on a blockchain.
+- Frontend code - The user interface can be written as for a traditional application, only making calls to a smart contract instead of a centralized backend.
+##### Trust
+Dapps are censorship-resistant and have no owners. Once the backend code is deployed to the blockchain, nobody can take it down, change it in unintended ways, block users, or get hacked. This also means that dapps have zero downtime.
+
+##### Privacy and Transparency
+Dapps can be anonymously deployed (created). Interactions with dapps happen via an anonymous login through a user's wallet and their blockchain account. What data is shared and collected is transparent, as well as the logic of the code.
+
+##### Interoperability
+The smart contract code of a dapp is publically accessible in the blockchain and compatible with other smart contract code. This enables developers to build upon each other's work, leading to more and faster innovation.
+
+##### Challenges
+But dapps also face some challenges. Since the backend code is immutable, the maintenance of a dapp can be difficult because the code cannot be easily updated. Interactions with dapps that lead to changes in the data can also be expensive and slow.
