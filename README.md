@@ -36,3 +36,25 @@ But like Bitcoin, Ethereum struggles among other things with, energy efficiency,
 #### Explanation
 <img src='https://i.imgur.com/LTMQciu.jpg'/>
 Celo is a mobile-first blockchain that focuses on creating an accessible, environmentally friendly financial system. The Celo blockchain was developed in response to the many challenges that popular blockchains like Bitcoin and Ethereum are facing.Stable Value CurrenciesA crucial challenge for accessibility and large-scale adoption of cryptocurrencies as a medium of exchange is their price volatility. Celo provides a growing family of stablecoins like cUSD, cEUR, cREAL, USDC, with a stable value that can even be used to pay transaction fees.Proof-of-Stake Bitcoin is using the proof-of-work consensus mechanisms, which costs a lot of energy and leads to expensive and often slower transactions. Celo uses a proof-of-stake consensus algorithm that enables fast, affordable, and carbon-negative transactions.Phone Number MappingAnother barrier to the accessibility of cryptocurrencies is their poor user experience. Users need to generate a private/public key pair to receive a payment, and they need to know a user's address in order to send them a payment. Celo allows users to send cryptocurrencies just via phone numbers by mapping their phone numbers to public keys.Full EVM CompatibilityCelo is fully EVM compatible and lets developers write code in the popular Solidity smart contract language. This means that the Celo ecosystem can make use of Ethereum tooling, contracts, and token standards like ERC-20 or ERC721 (NFT).
+
+
+
+<h3>Note 4 </h3>
+
+# Smart Contracts
+#### Explanation
+<img src='https://i.imgur.com/oOYJBy8.jpg' />
+
+A smart contract is a computer program that runs on a blockchain.
+
+Because smart contracts run (store code and state) on a blockchain, they are dependable and cannot be changed in ways that they weren't intended to by anybody after they are published.
+
+While smart contracts are computer programs, the name refers to the fact that, because of their dependability, they can be used to handle agreements between multiple parties, like traditional legal contracts.
+
+After the conditions of a traditional contract are met, the involved parties need to rely on each other to behave as stated in the contract or enforce further legal actions if they don't. Creating and enforcing traditional legal contracts is very time-consuming, expensive, and often biased toward parties with more financial resources.
+
+Smart contracts specify the terms of agreements in computer code that executes instructions automatically once terms are met, without being able to be changed or stopped.
+
+As a simple example, one could create a child trust fund that automatically withdraws funds to a child at a specific date, without the need for the involvement of anybody after the publication of the contract.
+
+The difference between smart contracts to traditional computer programs is that the execution of the code of smart contracts is guaranteed. Smart contracts can not be modified in unintended ways, stopped, or deleted after they are published.
